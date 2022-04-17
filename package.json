@@ -1,0 +1,23 @@
+{
+  "name": "aerospike-boolean-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anikeshk/aerospike-boolean-example.git"
+  },
+  "keywords": [],
+  "author": "anikeshk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anikeshk/aerospike-boolean-example/issues"
+  },
+  "homepage": "https://github.com/anikeshk/aerospike-boolean-example#readme",
+  "dependencies": {
+    "aerospike": "3.11.0"
+  }
+}
